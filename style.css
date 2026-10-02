@@ -68,3 +68,15 @@ button:hover {
   color: green;
   font-weight: bold;
 }
+
+.correct_message {
+  margin-top: 15px;
+  font-weight: bold;
+  color: green;
+}
+
+.wrong_message {
+  margin-top: 15px;
+  font-weight: bold;
+  color: red;
+}
