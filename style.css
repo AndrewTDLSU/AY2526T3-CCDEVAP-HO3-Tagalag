@@ -63,8 +63,14 @@ button:hover {
   font-weight: bold;
 }
 
-#div-success {
+/* Hiding an element use a different class */
+.hidden {
   display: none;
+}
+
+/* Turned this to a class and display flexbox */
+.div-success {
+  display: flexbox;
   color: green;
   font-weight: bold;
 }
